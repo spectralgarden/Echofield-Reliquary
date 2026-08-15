@@ -8,8 +8,6 @@ and slightly eerie atmosphere of a forgotten cathedral. Combining visual aesthet
 altars with a modern DSP console, the plugin serves as a creative sound-design tool for generating organic, evolving
 spaces and modulated echoes.
 
-1. Consumer Guide (For Music Producers & Musicians)
-
 What is Echofield Reliquary?
 
 Unlike dry, clinical algorithmic reverbs, Echofield Reliquary focuses on character. It emulates sound passing through
