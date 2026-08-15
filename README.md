@@ -2,7 +2,7 @@ SPECTAL GARDEN
 Echofield Reliquary
 A Sacred Cathedral Space & Acoustic Portal Simulator
 
-Echofield Reliquary is an ambient reverberation and delay-matrix synthesizer designed to evoke the warm, dusty,
+Echofield Reliquary is an ambient reverberation and delay-matrix designed to evoke the warm, dusty,
 and slightly eerie atmosphere of a forgotten cathedral. Combining visual aesthetics reminiscent of stained-glass
 altars with a modern DSP console, the plugin serves as a creative sound-design tool for generating organic, evolving
 spaces and modulated echoes.
